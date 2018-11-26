@@ -62,13 +62,12 @@
 		B004B80621A466D400BAEAA9 /* DropDownTF */ = {
 			isa = PBXGroup;
 			children = (
+				B034D1E921AC6C4300C4EED7 /* Extensions */,
 				B004B81D21A46A4F00BAEAA9 /* View */,
 				B004B80721A466D400BAEAA9 /* AppDelegate.swift */,
 				B004B80921A466D400BAEAA9 /* ViewController.swift */,
 				B004B80B21A466D400BAEAA9 /* Main.storyboard */,
 				B004B80E21A466D600BAEAA9 /* Assets.xcassets */,
-				B004B81B21A468E500BAEAA9 /* UIImage+Extension.swift */,
-				B004B82021A4DEA900BAEAA9 /* UIView+Extension.swift */,
 				B004B81021A466D600BAEAA9 /* LaunchScreen.storyboard */,
 				B004B81321A466D600BAEAA9 /* Info.plist */,
 			);
@@ -82,6 +81,15 @@
 				B004B81E21A46AA300BAEAA9 /* DropDownCell.swift */,
 			);
 			path = View;
+			sourceTree = "<group>";
+		};
+		B034D1E921AC6C4300C4EED7 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				B004B81B21A468E500BAEAA9 /* UIImage+Extension.swift */,
+				B004B82021A4DEA900BAEAA9 /* UIView+Extension.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

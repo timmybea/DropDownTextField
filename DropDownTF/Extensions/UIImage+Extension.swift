@@ -24,6 +24,5 @@ extension UIImage {
             return UIImage(named: self.name)!
         }
     }
-    
 }
 
